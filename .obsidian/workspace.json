@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Software Engg/Object ori.md",
+                "file": "year3/Software Engg/Object orientated programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Software Engg/Object ori.md",
+                "file": "year3/Software Engg/Object orientated programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Software Engg/Object ori.md",
+                "file": "year3/Software Engg/Object orientated programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Software Engg/Object ori.md"
+                "file": "year3/Software Engg/Object orientated programming.md"
               }
             }
           },
@@ -169,7 +169,7 @@
     "Untitled/Welcome.md~",
     "year3/Design and Analysis of Algo/02 Fractional Knapsack Problem.md",
     "year3/Design and Analysis of Algo/04 Prim's Algorithm.md",
-    "year3/Software Engg/Object ori.md",
+    "year3/Software Engg/Object orientated programming.md",
     "year3/Computer networks",
     "year3/Design and Analysis of Algo/05 Merge Sort.md",
     "year3/Design and Analysis of Algo/01 Analysis of Algo.md",
