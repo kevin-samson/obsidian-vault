@@ -17,10 +17,6 @@ int a = 10;
 # Working of a Compiler
 
 ```mermaid
----
-title: Working of a Compiler 
----
-
 flowchart LR
 
 newline["Front-End

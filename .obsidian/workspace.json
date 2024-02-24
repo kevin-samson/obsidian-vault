@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
-                "mode": "preview",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md"
+                "file": "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
+    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
     "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
     "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
     "Untitled/create a link.md",
@@ -175,7 +176,6 @@
     "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
     "year3/Money Bank/05 Financial services.md",
     "year3/Money Bank/04 Non-Banking Financial Companies.md",
-    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
     "year3/Software Engg/Agile software development.md",
     "year3/Money Bank/00 INTRO.md",
     "year3/Money Bank/03 Financial market.md",
