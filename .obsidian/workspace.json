@@ -13,12 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
+                "file": "year3/Computer networks/00 End to end Delay.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "9faf5761169074bb"
+          }
+        ]
+      },
+      {
+        "id": "19eaf588d9749ce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4da8ab999a5f12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year3/Computer networks/00 End to end Delay.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "9faf5761169074bb"
           }
         ]
       }
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
+                "file": "year3/Computer networks/00 End to end Delay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
+                "file": "year3/Computer networks/00 End to end Delay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md"
+                "file": "year3/Computer networks/00 End to end Delay.md"
               }
             }
           },
@@ -157,12 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46079ed4e2b9771d",
+  "active": "a4da8ab999a5f12a",
   "lastOpenFiles": [
+    "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
     "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
     "year3/Software Engg/Object orientated programming.md",
     "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
-    "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
     "Untitled/create a link.md",
     "Untitled/Welcome.md",
     "year3/Money Bank/02 Capital Market.md",
