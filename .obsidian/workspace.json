@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Computer networks/00 End to end Delay.md",
+                "file": "year3/Computer networks/01 Link Layer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Computer networks/00 End to end Delay.md",
+                "file": "year3/Computer networks/01 Link Layer.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Computer networks/00 End to end Delay.md",
+                "file": "year3/Computer networks/01 Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Computer networks/00 End to end Delay.md",
+                "file": "year3/Computer networks/01 Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Computer networks/00 End to end Delay.md"
+                "file": "year3/Computer networks/01 Link Layer.md"
               }
             }
           },
@@ -178,8 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4da8ab999a5f12a",
+  "active": "8e07c47ad251717c",
   "lastOpenFiles": [
+    "year3/Computer networks/00 End to end Delay.md",
+    "year3/Computer networks/01 Link Layer.md",
     "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
     "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
     "year3/Software Engg/Object orientated programming.md",
@@ -187,7 +189,6 @@
     "Untitled/create a link.md",
     "Untitled/Welcome.md",
     "year3/Money Bank/02 Capital Market.md",
-    "year3/Computer networks/00 End to end Delay.md",
     "Untitled/Welcome.md~",
     "year3/Design and Analysis of Algo/02 Fractional Knapsack Problem.md",
     "year3/Design and Analysis of Algo/04 Prim's Algorithm.md",
