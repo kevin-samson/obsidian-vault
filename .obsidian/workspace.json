@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90a871072c01c550",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md"
+                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md"
               }
             }
           },
@@ -182,7 +181,7 @@
   "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
     "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
-    "year3/Compiler Constuction/Introduction of Compiler/j.md",
+    "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
     "year3/Money Bank/06 Interest Rate.md",
     "year3/Money Bank/05 Financial services.md",
     "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
