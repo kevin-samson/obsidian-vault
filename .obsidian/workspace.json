@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Money Bank/06 Interest Rate.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Money Bank/06 Interest Rate.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Money Bank/06 Interest Rate.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Money Bank/06 Interest Rate.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Money Bank/06 Interest Rate.md"
+                "file": "year3/Compiler Constuction/Introduction of Compiler/j.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
-    "year3/Money Bank/05 Financial services.md",
+    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
+    "year3/Compiler Constuction/Introduction of Compiler/j.md",
     "year3/Money Bank/06 Interest Rate.md",
+    "year3/Money Bank/05 Financial services.md",
     "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
     "year3/Design and Analysis of Algo/07 Recurrence relation.md",
     "year3/Design and Analysis of Algo/02 Fractional Knapsack Problem.md",
@@ -193,7 +195,6 @@
     "year3/Computer networks/00 End to end Delay.md",
     "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
     "year3/Software Engg/Object orientated programming.md",
-    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
     "Untitled/create a link.md",
     "Untitled/Welcome.md",
     "year3/Money Bank/02 Capital Market.md",
@@ -221,7 +222,6 @@
     "shortcuts",
     "year3/Compiler Constuction/Introduction of Compiler",
     "year3/Compiler Constuction",
-    "A new text file for testing.md",
     "year3/Design and Analysis of Algo",
     "Untitled.canvas"
   ]
