@@ -12,6 +12,8 @@ Forward-->n[Not used Frequently]
 $T(n)=T(n-1)+n$
 $T(0)=0$
 
+
+
 $n=1$
 $=T(1-1)+1$
 $=T(0)+1$

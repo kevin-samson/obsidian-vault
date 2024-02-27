@@ -459,6 +459,7 @@ Funds
 For
 Finite
 False
+Forward
 stuff
 structure
 stream
@@ -644,6 +645,7 @@ slots
 slot
 sole
 seconds
+substituted
 like
 language
 level
@@ -1733,6 +1735,7 @@ vague
 vaporous
 verbs
 vault
+values
 optional
 of
 operands
@@ -2031,6 +2034,7 @@ Safe
 Savings
 Statement
 Shared
+Substitution
 It
 Index
 Intermediate
@@ -3245,6 +3249,7 @@ constrained
 container
 circuit
 connection
+condition
 not
 necessary
 nvidia
@@ -3394,6 +3399,7 @@ needs
 nested
 newtwork
 nodes
+next
 Examples
 Every
 Exponential
@@ -4639,6 +4645,7 @@ Relop
 Remove
 Retail
 Required
+Recurrence
 Hold
 HR
 Hx
@@ -5453,6 +5460,7 @@ relationship
 rate
 ready
 routers
+recursively
 Maximum
 Meaning
 Matrix
@@ -5736,6 +5744,7 @@ Behavior
 Both
 Banking
 Bank
+Backwards
 Omega
 OQ
 OA
@@ -5974,6 +5983,7 @@ Unsigned
 Using
 UML
 Usually
+Uses
 Quadratic
 Questions
 Qa
@@ -6434,6 +6444,7 @@ divided
 duration
 dedicates
 delete
+defines
 year
 years
 ysA
