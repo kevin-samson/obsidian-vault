@@ -1,6 +1,8 @@
 When interest rate is low means more borrowing and more production.
 Inflation - when there is extra money in the market. Purchasing power of the money gets reduced.
 
+Interest = inflation+compensation for waiting+risk
+
 ## Yield to Maturity(YTM)
 ```mermaid
 flowchart TD
@@ -10,5 +12,6 @@ c[capital gains]-->bowl
 r[Reinvestment Income]-->bowl
 ```
 All the gains made in a fixed investment deposit is called YTM
-
-## Time Value of money(TVM)
+## Future Value
+Future value of Rs. 100 = $FV=100*(1+r)^t$
+$(1+r)^t$
