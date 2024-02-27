@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
+                "file": "year3/Design and Analysis of Algo/07 Recurrence relation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
+                "file": "year3/Design and Analysis of Algo/07 Recurrence relation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
+                "file": "year3/Design and Analysis of Algo/07 Recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
+                "file": "year3/Design and Analysis of Algo/07 Recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md"
+                "file": "year3/Design and Analysis of Algo/07 Recurrence relation.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
-    "year3/Design and Analysis of Algo/01 Analysis of Algo.md",
     "year3/Design and Analysis of Algo/06 Masters Theorem.md",
+    "year3/Design and Analysis of Algo/07 Recurrence relation.md",
+    "year3/Design and Analysis of Algo/01 Analysis of Algo.md",
     "year3/Computer networks/01 Link Layer.md",
     "year3/Computer networks/00 End to end Delay.md",
     "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
