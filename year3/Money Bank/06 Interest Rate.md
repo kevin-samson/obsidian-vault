@@ -14,4 +14,8 @@ r[Reinvestment Income]-->bowl
 All the gains made in a fixed investment deposit is called YTM
 ## Future Value
 Future value of Rs. 100 = $FV=100*(1+r)^t$
-$(1+r)^t$
+$(1+r)^t$is called the multiplying factor
+
+When looking in the future then we should multiply or else divide 
+
+When the rate of return increase then the present value decrease
