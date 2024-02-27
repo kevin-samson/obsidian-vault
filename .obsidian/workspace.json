@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Computer networks/01 Link Layer.md",
+                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Computer networks/01 Link Layer.md",
+                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Computer networks/01 Link Layer.md",
+                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Computer networks/01 Link Layer.md",
+                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Computer networks/01 Link Layer.md"
+                "file": "year3/Design and Analysis of Algo/06 Masters Theorem.md"
               }
             }
           },
@@ -178,10 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e07c47ad251717c",
+  "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
-    "year3/Computer networks/00 End to end Delay.md",
+    "year3/Design and Analysis of Algo/01 Analysis of Algo.md",
+    "year3/Design and Analysis of Algo/06 Masters Theorem.md",
     "year3/Computer networks/01 Link Layer.md",
+    "year3/Computer networks/00 End to end Delay.md",
     "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
     "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
     "year3/Software Engg/Object orientated programming.md",
@@ -194,7 +196,6 @@
     "year3/Design and Analysis of Algo/04 Prim's Algorithm.md",
     "year3/Computer networks",
     "year3/Design and Analysis of Algo/05 Merge Sort.md",
-    "year3/Design and Analysis of Algo/01 Analysis of Algo.md",
     "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
     "year3/Money Bank/05 Financial services.md",
     "year3/Money Bank/04 Non-Banking Financial Companies.md",
