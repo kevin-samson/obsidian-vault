@@ -10,3 +10,5 @@ c[capital gains]-->bowl
 r[Reinvestment Income]-->bowl
 ```
 All the gains made in a fixed investment deposit is called YTM
+
+## Time Value of money(TVM)
