@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "4d4b1db8cd1062cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0fb27ebde2c0fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46079ed4e2b9771d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year3/Money Bank/06 Interest Rate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "9faf5761169074bb"
+          }
+        ]
+      },
+      {
+        "id": "19eaf588d9749ce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4da8ab999a5f12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year3/Money Bank/06 Interest Rate.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "9faf5761169074bb"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9777c76abc69c6bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62b2638d42fa70e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e07c47ad251717c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cf5c38bee77aea9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6acdb5a53d76df0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "90a871072c01c550",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6524a9f2d944ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32249113ae93fec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "year3/Money Bank/06 Interest Rate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3173ac4bfbe63b50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "year3/Money Bank/06 Interest Rate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eb461544a919e51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "56fd0c0da52e0354",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "year3/Money Bank/06 Interest Rate.md"
+              }
+            }
+          },
+          {
+            "id": "65f228cfca3cbc8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "46079ed4e2b9771d",
+  "lastOpenFiles": [
+    "year3/Money Bank/05 Financial services.md",
+    "year3/Money Bank/06 Interest Rate.md",
+    "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
+    "year3/Design and Analysis of Algo/07 Recurrence relation.md",
+    "year3/Design and Analysis of Algo/02 Fractional Knapsack Problem.md",
+    "year3/Compiler Constuction/Introduction of Compiler/00 Working of a Compiler.md",
+    "year3/Design and Analysis of Algo/01 Analysis of Algo.md",
+    "year3/Design and Analysis of Algo/06 Masters Theorem.md",
+    "year3/Computer networks/01 Link Layer.md",
+    "year3/Computer networks/00 End to end Delay.md",
+    "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
+    "year3/Software Engg/Object orientated programming.md",
+    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
+    "Untitled/create a link.md",
+    "Untitled/Welcome.md",
+    "year3/Money Bank/02 Capital Market.md",
+    "Untitled/Welcome.md~",
+    "year3/Design and Analysis of Algo/04 Prim's Algorithm.md",
+    "year3/Computer networks",
+    "year3/Design and Analysis of Algo/05 Merge Sort.md",
+    "year3/Money Bank/04 Non-Banking Financial Companies.md",
+    "year3/Software Engg/Agile software development.md",
+    "year3/Money Bank/00 INTRO.md",
+    "year3/Money Bank/03 Financial market.md",
+    "Untitled 1",
+    "year3/Software Engg",
+    "year3/Untitled.canvas",
+    "year3/Untitled.md",
+    "year3/Design and Analysis of Algo/Divide and conquer.md",
+    "year3/Compiler Constuction/pics/Pasted image 20240212100128.png",
+    "year3/Compiler Constuction/pics/Screenshot_20240212_094533.png",
+    "year3/Compiler Constuction/pics/Screenshot_20240212_094533.png",
+    "year3/Compiler Constuction/pics/Pasted image 20240212095305.png",
+    "year3/Compiler Constuction/pics/Pasted image 20240212095850.png",
+    "year3/Compiler Constuction/pics",
+    "shortcuts/Kwin shortcuts.md",
+    "year3/Money Bank",
+    "shortcuts",
+    "year3/Compiler Constuction/Introduction of Compiler",
+    "year3/Compiler Constuction",
+    "A new text file for testing.md",
+    "year3/Design and Analysis of Algo",
+    "Untitled.canvas"
+  ]
+}
