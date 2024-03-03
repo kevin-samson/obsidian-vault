@@ -306,6 +306,7 @@ Accounts
 Attributes
 Aggregation
 All
+Ambiguity
 Finds
 Find
 Forex
@@ -801,6 +802,7 @@ long
 link
 links
 looking
+leftmost
 Token
 Tree
 Type
@@ -3070,6 +3072,7 @@ propagation
 points
 production
 present
+parse
 consistent
 compatible
 conversions
@@ -3414,6 +3417,7 @@ nested
 newtwork
 nodes
 next
+num
 Examples
 Every
 Exponential
@@ -5481,6 +5485,7 @@ routers
 recursively
 reduced
 risk
+rightmost
 Maximum
 Meaning
 Matrix
@@ -6470,6 +6475,7 @@ defines
 deposit
 divide
 decrease
+derivation
 year
 years
 ysA
