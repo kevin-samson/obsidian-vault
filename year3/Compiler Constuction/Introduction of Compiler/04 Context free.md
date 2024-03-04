@@ -27,3 +27,4 @@ $->(id+E)*E$
 `F->id`
 
 One way to solve ambiguity is to rewrite the grammar
+Right most derivative in the reverse order
