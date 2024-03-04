@@ -138,6 +138,7 @@ Let
 Letter
 Liability
 Loan
+LHS
 Analysis
 Array
 Assume
@@ -307,6 +308,7 @@ Attributes
 Aggregation
 All
 Ambiguity
+Aim
 Finds
 Find
 Forex
@@ -649,6 +651,10 @@ slot
 sole
 seconds
 substituted
+series
+step
+substring
+side
 like
 language
 level
@@ -1321,6 +1327,7 @@ trajectory
 toe
 take
 try
+thru
 form
 floating
 faster
@@ -2044,6 +2051,7 @@ Savings
 Statement
 Shared
 Substitution
+Sentential
 It
 Index
 Intermediate
@@ -2559,6 +2567,7 @@ Current
 Cash
 Card
 Composition
+CFG
 according
 are
 almost
@@ -3073,6 +3082,7 @@ points
 production
 present
 parse
+parsing
 consistent
 compatible
 conversions
@@ -3864,6 +3874,7 @@ Generation
 Giving
 General
 Graph
+Given
 machine
 maximum
 makes
@@ -4214,6 +4225,8 @@ halving
 hold
 header
 host
+happens
+hand
 Description
 Data
 Division
@@ -4667,6 +4680,7 @@ Remove
 Retail
 Required
 Recurrence
+Replace
 Hold
 HR
 Hx
@@ -5486,6 +5500,8 @@ recursively
 reduced
 risk
 rightmost
+reach
+reduction
 Maximum
 Meaning
 Matrix
@@ -5771,6 +5787,8 @@ Both
 Banking
 Bank
 Backwards
+Bottom
+BUP
 Omega
 OQ
 OA
@@ -6476,6 +6494,7 @@ deposit
 divide
 decrease
 derivation
+draw
 year
 years
 ysA
