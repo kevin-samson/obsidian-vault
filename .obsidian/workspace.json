@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md"
+                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
+    "year3/Compiler Constuction/Introduction of Compiler/05 Shift-Reduce Parsing.md",
+    "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
     "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
-    "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
     "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
     "year3/Money Bank/06 Interest Rate.md",
     "year3/Money Bank/05 Financial services.md",
@@ -210,7 +211,6 @@
     "year3/Software Engg",
     "year3/Untitled.canvas",
     "year3/Untitled.md",
-    "year3/Design and Analysis of Algo/Divide and conquer.md",
     "year3/Compiler Constuction/pics/Pasted image 20240212100128.png",
     "year3/Compiler Constuction/pics/Screenshot_20240212_094533.png",
     "year3/Compiler Constuction/pics/Screenshot_20240212_094533.png",

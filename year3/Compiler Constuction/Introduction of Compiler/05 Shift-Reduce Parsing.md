@@ -51,3 +51,4 @@ B->OS1|1S
 | $A1S  | $     | reduce |            |
 | $AB   | $     | reduce |            |
 | $S    | $     | accept |            |
+
