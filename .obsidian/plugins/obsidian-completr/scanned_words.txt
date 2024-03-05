@@ -655,6 +655,7 @@ series
 step
 substring
 side
+solve
 like
 language
 level
@@ -1621,6 +1622,7 @@ withdrawn
 whole
 wholes
 waiting
+way
 value
 variables
 visible
@@ -2568,6 +2570,7 @@ Cash
 Card
 Composition
 CFG
+Challenges
 according
 are
 almost
@@ -2748,6 +2751,7 @@ along
 analyze
 across
 available
+ambiguity
 grammar
 generation
 graphics
@@ -3875,6 +3879,7 @@ Giving
 General
 Graph
 Given
+Grammar
 machine
 maximum
 makes
@@ -4054,6 +4059,7 @@ mega
 made
 multiplying
 multiply
+most
 have
 hml
 hPK
@@ -5502,6 +5508,9 @@ risk
 rightmost
 reach
 reduction
+rule
+rewrite
+reverse
 Maximum
 Meaning
 Matrix
@@ -5909,6 +5918,7 @@ Operation
 Owner
 Order
 Once
+One
 Usage
 UJ
 Umq
@@ -6495,6 +6505,7 @@ divide
 decrease
 derivation
 draw
+derivative
 year
 years
 ysA
@@ -7737,6 +7748,7 @@ KEEE
 KKhh
 KnE
 Keep
+Key
 Üz
 Üei
 Ür
