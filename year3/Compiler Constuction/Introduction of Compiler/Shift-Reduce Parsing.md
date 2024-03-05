@@ -41,6 +41,13 @@ S->AB
 A->OS|1S
 B->OS1|1S
 
-| stack | input |
-| ----- | ----- |
-| $     | 0S1S  | 
+| stack | input | action |            |
+| ----- | ----- | ------ | ---------- |
+| $     | 0S1S$ | shift  |            |
+| $0    | S1S$  | shift  |            |
+| $0S   | 1S$   | reduce | -> conflict |
+| $A    | 1$    | shift  |            |
+| $A1   | 1S$   | shift  |            |
+| $A1S  | $     | reduce |            |
+| $AB   | $     | reduce |            |
+| $S    | $     | accept |            |
