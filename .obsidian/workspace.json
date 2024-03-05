@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
+                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md"
+                "file": "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "46079ed4e2b9771d",
   "lastOpenFiles": [
-    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
     "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
+    "year3/Compiler Constuction/Introduction of Compiler/Shift-Reduce Parsing.md",
+    "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
     "year3/Money Bank/06 Interest Rate.md",
     "year3/Money Bank/05 Financial services.md",
     "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
@@ -216,7 +217,6 @@
     "year3/Compiler Constuction/pics/Pasted image 20240212095305.png",
     "year3/Compiler Constuction/pics/Pasted image 20240212095850.png",
     "year3/Compiler Constuction/pics",
-    "shortcuts/Kwin shortcuts.md",
     "year3/Money Bank",
     "shortcuts",
     "year3/Compiler Constuction/Introduction of Compiler",
