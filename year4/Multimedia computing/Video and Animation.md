@@ -41,3 +41,52 @@ A well-designed animation should be meaningful, smooth, and purposeful.
 
 For smooth animation, ensure the playback rate is high enough to maintain fluid motion.
 
+# Types of Animation
+
+## Cel Animation
+- Images are drawn on **clear sheets** called celluloid.  
+- These images are placed over a **fixed background**.  
+- The **background stays the same**, while the moving objects change from frame to frame.
+
+## Frame Based Animation
+- Animation is created by making **changes from one frame to the next**.  
+- **Keyframes** are important frames that show major changes in the animation.  
+- Changes between keyframes can include **position, color, shape, or other properties**.  
+
+### Tweening
+- **Tweening** is the process of generating frames between two keyframes.  
+- It helps create **smooth transitions** between movements.  
+- At least **two keyframes** are needed for tweening to work.  
+
+## Path-based Animation
+- Also called **vector animation**, where an object moves along a path.  
+- The object follows a **line or vector** to create movement.  
+- **Only one object and a path** are needed to start the animation.  
+- **Tweening** is used to fill in the frames, making the movement smooth.
+
+# Animation Techniques  
+
+  
+
+### Morphing  
+- **Blends two images** into a smooth transition.  
+- Uses multiple frames to create the illusion of **one object transforming into another**.  
+- In Adobe Flash, simple vector morphing is done using **shape tweening**.  
+
+### Warping  
+
+- **Distorts a single image** to create an effect.  
+
+- Unlike morphing, **only one image** is involved.  
+
+  
+
+### Film Loop  
+
+- A **series of animated frames** that **repeats continuously**.  
+
+  
+
+### Trail Effect  
+
+- The image from the **previous frame is not fully erased**, creating a motion blur effect.
