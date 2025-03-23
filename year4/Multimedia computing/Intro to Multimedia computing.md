@@ -83,3 +83,21 @@ sequenceDiagram
 
 - This allows for non-HTTP protocols between server and media player
 - Can also use UDP instead of TCP
+## Streaming Multimedia: UDP vs. TCP
+
+### UDP (User Datagram Protocol)
+- Server sends data at a fixed rate, ignoring network congestion.
+- Typically, **send rate = encoding rate** (constant).
+- **Packet loss** reduces effective fill rate.
+- **Short playout delay** (2-5 seconds) to handle jitter.
+- **Error recovery** is limited due to time constraints.
+
+### TCP (Transmission Control Protocol)
+- Adjusts send rate dynamically based on **TCP congestion control**.
+- **Fill rate fluctuates**, causing variability in delivery.
+- Requires a **larger playout delay** to smooth out transmission.
+- **Better firewall compatibility** (e.g., HTTP/TCP easily passes firewalls).
+
+### 🚀 Key Takeaway:
+- **UDP** is preferred for real-time, low-latency streaming but may suffer from packet loss.
+- **TCP** ensures reliable delivery but introduces higher latency and buffering.
