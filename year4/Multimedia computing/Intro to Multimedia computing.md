@@ -169,3 +169,41 @@ graph TD;
     B --> D[CDN Server in Europe];
     B --> E[CDN Server in Asia];
 ```
+## **What is a CDN?**
+
+- A **Content Delivery Network (CDN)** like **Akamai** helps websites (e.g., **CNN**) deliver content faster.
+
+- It **stores copies** of website content on multiple **CDN servers** worldwide.
+
+- When content is updated, the **CDN updates all its servers**.
+
+  
+
+## **How Does a CDN Route Requests?**
+
+1. The **CDN creates a "map"** showing the closest CDN servers to different Internet providers (ISPs).
+
+2. When a user requests content, their **ISP is identified**.
+
+3. The request is **sent to the nearest CDN server** based on the map.
+
+4. This speeds up delivery and reduces **loading time**.
+
+  
+
+## **How Does a CDN Distribute Content?**
+
+- The **origin server** (e.g., `www.foo.com`) provides the main webpage and links to images and media.
+
+- Instead of storing images on the origin server, it **replaces** links like:
+http://www.foo.com/sports.ruth.gif
+**With a CDN link:**
+http://www.cdn.com/www.foo.com/sports/ruth.gif
+- The **CDN company (`cdn.com`)** stores and serves these files efficiently.
+- A **CDN's DNS server** redirects users to the best CDN location.
+
+## **Why Use a CDN?**
+- **Faster website loading**  
+- **Reduces server load**  
+- **Improves reliability**  
+- **Better performance for global users**  
