@@ -22,4 +22,13 @@
 | **Timing Constraints**     | Data must arrive in time for playout.                             | Still requires timing constraints for seamless playback.        | Strict timing constraints to maintain interactivity.                                |
 | **Session Initialization** | Not a major concern, as media is pre-stored.                      | Live stream setup requires encoding and broadcasting setup.     | Requires mechanisms to advertise IP, port, and encoding (e.g., SIP for VoIP).       |
 
+# Streaming Stored Multimedia
+Application-level streaming techniques for making the best out of services
+- Client side buffering - Showing loading symbol while buffering
+- Use of UDP over TCP
+- Use multiple encoding of multimedia
 
+## Simplest Approach
+```mermaid
+
+```

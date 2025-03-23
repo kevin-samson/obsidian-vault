@@ -4,32 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fb27ebde2c0fd8",
-        "type": "tabs",
-        "dimension": 67.84946236559139,
-        "children": [
-          {
-            "id": "46079ed4e2b9771d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year4/Multimedia Computing.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Multimedia Computing"
-            },
-            "group": "9faf5761169074bb"
-          }
-        ]
-      },
-      {
         "id": "19eaf588d9749ce8",
         "type": "tabs",
-        "dimension": 32.15053763440861,
         "children": [
           {
             "id": "a4da8ab999a5f12a",
@@ -37,15 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year4/Multimedia Computing.md",
+                "file": "year4/Multimedia computing/Intro to Multimedia computing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to Multimedia computing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "562caa6e0d833671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cc64c5a7bec6c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year4/Multimedia computing/Intro to Multimedia computing.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Multimedia Computing"
-            },
-            "group": "9faf5761169074bb"
+              "title": "Intro to Multimedia computing"
+            }
           }
         ]
       }
@@ -121,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year4/Multimedia Computing.md",
+                "file": "year4/Multimedia computing/Intro to Multimedia computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Multimedia Computing"
+              "title": "Backlinks for Intro to Multimedia computing"
             }
           },
           {
@@ -140,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year4/Multimedia Computing.md",
+                "file": "year4/Multimedia computing/Intro to Multimedia computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Multimedia Computing"
+              "title": "Outgoing links from Intro to Multimedia computing"
             }
           },
           {
@@ -169,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year4/Multimedia Computing.md",
+                "file": "year4/Multimedia computing/Intro to Multimedia computing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multimedia Computing"
+              "title": "Outline of Intro to Multimedia computing"
             }
           },
           {
@@ -207,11 +203,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4da8ab999a5f12a",
+  "active": "0cc64c5a7bec6c4f",
   "lastOpenFiles": [
+    "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
+    "year4/Multimedia computing/Intro to Multimedia computing.md",
+    "year4/Multimedia computing",
+    "2025-03-23.md",
     "year4",
     "Untitled.canvas",
-    "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
     "year3/Compiler Constuction/Introduction of Compiler/05 Shift-Reduce Parsing.md",
     "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
     "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
@@ -236,8 +235,6 @@
     "year3/Design and Analysis of Algo/05 Merge Sort.md",
     "year3/Money Bank/04 Non-Banking Financial Companies.md",
     "year3/Software Engg/Agile software development.md",
-    "year3/Money Bank/00 INTRO.md",
-    "year3/Money Bank/03 Financial market.md",
     "year3/Software Engg",
     "year3/Untitled.canvas",
     "year3/Compiler Constuction/pics/Pasted image 20240212100128.png",
@@ -249,7 +246,6 @@
     "year3/Money Bank",
     "shortcuts",
     "year3/Compiler Constuction/Introduction of Compiler",
-    "year3/Compiler Constuction",
-    "year3/Design and Analysis of Algo"
+    "year3/Compiler Constuction"
   ]
 }
