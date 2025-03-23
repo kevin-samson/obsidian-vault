@@ -66,7 +66,6 @@ For smooth animation, ensure the playback rate is high enough to maintain fluid 
 
 # Animation Techniques  
 
-  
 
 ### Morphing  
 - **Blends two images** into a smooth transition.  
@@ -79,14 +78,67 @@ For smooth animation, ensure the playback rate is high enough to maintain fluid 
 
 - Unlike morphing, **only one image** is involved.  
 
-  
-
 ### Film Loop  
 
 - A **series of animated frames** that **repeats continuously**.  
 
-  
 
 ### Trail Effect  
 
 - The image from the **previous frame is not fully erased**, creating a motion blur effect.
+
+# Animation Software & File Formats  
+
+  
+
+## Animation Software Features  
+
+- Combines **bitmap and vector** editing tools in one environment.  
+
+- Supports **importing media** in different file formats.  
+
+- Uses a **timeline** for animation development and control.  
+
+- Some software includes a **built-in scripting language**, like **ActionScript in Adobe Flash**.  
+
+  
+
+## Animation File Formats  
+
+  
+
+### **Animated GIF (GIF89a)**  
+
+- Requires **no plug-in** for browser viewing.  
+
+- Supported by **all major browsers**.  
+
+  
+
+### **SWF (Shockwave Flash)**  
+
+- **View-only format**, requires **Adobe Flash Player** for playback.  
+
+  
+
+### **QuickTime (MOV)**  
+
+- **Apple’s animation and movie format**.  
+
+- Works on **all platforms**.  
+
+  
+
+### **MPEG (Moving Picture Experts Group)**  
+
+- Standard for **interactive animation and video**.  
+
+- **High quality with smaller file sizes** due to advanced compression.  
+
+  
+
+### **AVI (Audio Video Interleave)**  
+
+- **Microsoft’s animation format** for Windows.  
+
+- Although **native to Windows**, it is compatible with other players and programs.
