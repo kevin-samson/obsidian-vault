@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90a871072c01c550",
@@ -183,14 +182,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5c0956ea173dc9bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,17 +208,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cc64c5a7bec6c4f",
+  "active": "8e07c47ad251717c",
   "lastOpenFiles": [
-    "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
+    "Welcome.md",
     "year4/Multimedia computing/Intro to Multimedia computing.md",
-    "year4/Multimedia computing",
+    "2025-03-23.md 14-34-09-728.md",
     "2025-03-23.md",
-    "year4",
     "Untitled.canvas",
+    "Untitled 1.canvas",
+    "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
+    "year4/Multimedia computing",
+    "year4",
     "year3/Compiler Constuction/Introduction of Compiler/05 Shift-Reduce Parsing.md",
     "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
     "year3/Compiler Constuction/Introduction of Compiler/03 Lexical Analysis.md",
@@ -234,7 +246,6 @@
     "year3/Computer networks",
     "year3/Design and Analysis of Algo/05 Merge Sort.md",
     "year3/Money Bank/04 Non-Banking Financial Companies.md",
-    "year3/Software Engg/Agile software development.md",
     "year3/Software Engg",
     "year3/Untitled.canvas",
     "year3/Compiler Constuction/pics/Pasted image 20240212100128.png",

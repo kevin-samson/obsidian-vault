@@ -62,4 +62,24 @@ sequenceDiagram
 - Browser gets metafile
 - Browser launches player and passed the metafile to the media player
 - Media player contacts the server 
-- Server streams the audi
+- Server streams the audio and video the player
+
+## Streaming from a streaming server
+
+```mermaid
+sequenceDiagram
+    participant Web_Browser as Web Browser
+    participant Media_Player as Media Player
+    participant Web_Server as Web Server
+    participant Streaming_Server as Streaming Server
+
+    Web_Browser->>Web_Server: (1) HTTP request/response for presentation description file
+    Web_Server-->>Web_Browser: Presentation description file
+    Web_Browser->>Media_Player: (2) Send presentation description file
+    Media_Player->>Streaming_Server: (3) Request audio/video file
+    Streaming_Server-->>Media_Player: Send audio/video file
+   
+```
+
+- This allows for non-HTTP protocols between server and media player
+- Can also use UDP instead of TCP
