@@ -30,5 +30,36 @@ Application-level streaming techniques for making the best out of services
 
 ## Simplest Approach
 ```mermaid
+graph TD;
+    subgraph Client
+        A[Web Browser] --> B[Media Player]
+    end
+    A <--> C[Web Server with Audio Files]
 
 ```
+
+- Audio or Video are stored in files
+- There are sent or transferred as HTTP objects
+	- Sent as an entity to client and then passed to player
+**Drawbacks**
+- Audio or Video are not streamed
+- No pipelining so it takes longer to play
+
+## Streaming Approach
+```mermaid
+sequenceDiagram
+    participant Web_Browser as Web Browser
+    participant Media_Player as Media Player
+    participant Web_Server as Web Server
+
+    Web_Browser->>Web_Server: (1) HTTP request/response for meta file
+    Web_Server-->>Web_Browser: Meta file
+    Web_Browser->>Media_Player: (2) Send meta file
+    Media_Player->>Web_Server: (3) Request audio/video file
+    Web_Server-->>Media_Player: Send audio/video file over HTTP
+```
+
+- Browser gets metafile
+- Browser launches player and passed the metafile to the media player
+- Media player contacts the server 
+- Server streams the audi
