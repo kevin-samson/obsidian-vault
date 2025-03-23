@@ -101,3 +101,63 @@ sequenceDiagram
 ### 🚀 Key Takeaway:
 - **UDP** is preferred for real-time, low-latency streaming but may suffer from packet loss.
 - **TCP** ensures reliable delivery but introduces higher latency and buffering.
+
+# User Control of Streaming Media: RTSP vs. HTTP
+
+## HTTP  
+- **Not designed for multimedia streaming**.  
+- Lacks commands for **rewind, fast forward, pause, resume, etc.**  
+
+## RTSP (Real-Time Streaming Protocol) - RFC 2326  
+- A **client-server protocol** for controlling media playback.  
+- Supports **rewind, fast forward, pause, resume, and repositioning**.  
+
+### **What RTSP Doesn't Do**  
+- **Does not** define how audio/video is encapsulated for streaming.  
+- **Does not** restrict transport protocols (can use **UDP or TCP**).  
+- **Does not** specify how media players handle buffering.  
+
+## **RTSP and "Out-of-Band" Control**  
+- Similar to **FTP**, which separates data and control channels:  
+  - **Data (file transfer) → One TCP connection**.  
+  - **Control (commands) → Separate TCP connection**.  
+- RTSP works the same way:  
+  - **RTSP control messages** use a different port (Port **554**) → **Out-of-band**.  
+  - **Media stream** is sent separately (Port **332**) → **In-band**.  
+
+## **Key Takeaway**  
+- **RTSP** is built for streaming, allowing users to control playback.  
+- **HTTP** lacks media control features.  
+- **RTSP uses separate channels for control and media streaming**, improving efficiency.  
+
+## RSTP Operation
+```mermaid
+sequenceDiagram
+    participant Web_Browser as Web Browser
+    participant Web_Server as Web Server
+    
+
+    Web_Browser->>Web_Server: HTTP GET
+    Web_Server-->>Web_Browser: Presentation Description
+
+    
+```
+
+```mermaid
+sequenceDiagram
+	participant Media_Player as Media Player
+    participant Media_Server as Media Server
+
+	Media_Player->>Media_Server: SETUP
+    Media_Server-->>Media_Player: Acknowledge
+
+    Media_Player->>Media_Server: PLAY
+    Media_Server-->>Media_Player: Media Stream
+
+    Media_Player->>Media_Server: PAUSE
+    Media_Server-->>Media_Player: Acknowledge
+
+    Media_Player->>Media_Server: TEARDOWN
+    Media_Server-->>Media_Player: Acknowledge
+```
+

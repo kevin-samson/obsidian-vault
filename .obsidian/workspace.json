@@ -6,6 +6,7 @@
       {
         "id": "19eaf588d9749ce8",
         "type": "tabs",
+        "dimension": 58.731808731808734,
         "children": [
           {
             "id": "a4da8ab999a5f12a",
@@ -27,6 +28,7 @@
       {
         "id": "562caa6e0d833671",
         "type": "tabs",
+        "dimension": 41.268191268191266,
         "children": [
           {
             "id": "0cc64c5a7bec6c4f",
@@ -214,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4da8ab999a5f12a",
+  "active": "0cc64c5a7bec6c4f",
   "lastOpenFiles": [
     "year4/Multimedia computing/Intro to Multimedia computing.md",
     "Welcome.md",
