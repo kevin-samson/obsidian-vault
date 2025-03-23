@@ -161,3 +161,11 @@ sequenceDiagram
     Media_Server-->>Media_Player: Acknowledge
 ```
 
+# Content distribution networks
+```mermaid
+graph TD;
+    A[Origin Server in North America] --> B[CDN Distribution Node];
+    B --> C[CDN Server in S. America];
+    B --> D[CDN Server in Europe];
+    B --> E[CDN Server in Asia];
+```
