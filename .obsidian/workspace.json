@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "90a871072c01c550",
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e07c47ad251717c",
+  "active": "a4da8ab999a5f12a",
   "lastOpenFiles": [
     "Welcome.md",
     "year4/Multimedia computing/Intro to Multimedia computing.md",
