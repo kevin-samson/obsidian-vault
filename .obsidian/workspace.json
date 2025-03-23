@@ -15,9 +15,11 @@
               "state": {
                 "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Bottom up Parsing"
             },
             "group": "9faf5761169074bb"
           }
@@ -35,9 +37,11 @@
               "state": {
                 "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Bottom up Parsing"
             },
             "group": "9faf5761169074bb"
           }
@@ -60,8 +64,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +83,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -115,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 06 Bottom up Parsing"
             }
           },
           {
@@ -127,7 +140,9 @@
                 "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 06 Bottom up Parsing"
             }
           },
           {
@@ -137,8 +152,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,8 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md"
-              }
+                "file": "year3/Compiler Constuction/Introduction of Compiler/06 Bottom up Parsing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 06 Bottom up Parsing"
             }
           },
           {
@@ -156,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
