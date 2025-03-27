@@ -1,0 +1,6 @@
+- Class Notes
+- 2-3 MCQ type questions
+- few fill in the blank type questions
+- no direct questions like, questions will be assertion reasoning type question 
+- no text book
+- only handwritten notes
