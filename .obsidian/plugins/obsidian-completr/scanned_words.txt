@@ -1408,6 +1408,8 @@ tens
 techniques
 transferred
 thresholding
+type
+text
 form
 floating
 faster
@@ -1576,6 +1578,7 @@ first
 flying
 follow
 forces
+fill
 where
 with
 while
@@ -2534,6 +2537,8 @@ blurry
 blurring
 boundary
 basis
+blank
+book
 Check
 Checking
 Checks
@@ -2727,6 +2732,7 @@ Contrast
 Converts
 China
 Chinese
+Class
 according
 are
 almost
@@ -2931,6 +2937,7 @@ asserting
 administrative
 armed
 adopt
+assertion
 grammar
 generation
 graphics
@@ -3085,6 +3092,8 @@ gains
 good
 games
 gray
+gonzalez
+github
 programming
 program
 pos
@@ -3653,6 +3662,7 @@ next
 num
 non
 noise
+notes
 Examples
 Every
 Exponential
@@ -4479,6 +4489,7 @@ happens
 hand
 heights
 highlighting
+handwritten
 Description
 Data
 Division
@@ -5219,6 +5230,7 @@ Netflix
 Not
 Noise
 November
+Notes
 Value
 VV
 VHm
@@ -5802,6 +5814,7 @@ region
 recognition
 recognized
 refuse
+reasoning
 Maximum
 Meaning
 Matrix
@@ -5942,6 +5955,7 @@ Multimedia
 Media
 Main
 Morphological
+MCQ
 Big
 Best
 Bin
@@ -6842,6 +6856,7 @@ domestic
 defence
 decision
 defensive
+direct
 year
 years
 ysA
@@ -7611,6 +7626,8 @@ qrTT
 qVMT
 quickly
 quality
+questions
+question
 Yi
 YX
 Yz
