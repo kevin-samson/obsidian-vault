@@ -318,6 +318,9 @@ Alpha
 Adjusts
 Acquisition
 Analyzes
+Air
+ADIZ
+American
 Finds
 Find
 Forex
@@ -688,6 +691,10 @@ shapes
 structures
 scene
 symbolic
+seaward
+stated
+sovereignty
+says
 like
 language
 level
@@ -850,6 +857,8 @@ longer
 launches
 levels
 learning
+latest
+laws
 Token
 Tree
 Type
@@ -1219,6 +1228,11 @@ important
 identifying
 imaging
 industrial
+identification
+impose
+island
+insists
+instructions
 the
 tree
 token
@@ -1558,6 +1572,10 @@ formats
 filtering
 further
 facial
+first
+flying
+follow
+forces
 where
 with
 while
@@ -1699,6 +1717,8 @@ waiting
 way
 world
 within
+was
+wants
 value
 variables
 visible
@@ -1993,6 +2013,7 @@ online
 opacities
 original
 opening
+organ
 Syntax
 Semitic
 Shortcut
@@ -2155,6 +2176,7 @@ Sharpens
 Stages
 Segmentation
 Splits
+Senkakyu
 It
 Index
 Intermediate
@@ -2336,6 +2358,7 @@ Initialization
 Image
 Improves
 Identifies
+Identification
 builds
 better
 bond
@@ -2510,6 +2533,7 @@ brightness
 blurry
 blurring
 boundary
+basis
 Check
 Checking
 Checks
@@ -2701,6 +2725,8 @@ Computer
 Content
 Contrast
 Converts
+China
+Chinese
 according
 are
 almost
@@ -2896,6 +2922,15 @@ analysis
 aerial
 adjusting
 artifacts
+announce
+aircraft
+airspace
+aviation
+aimed
+asserting
+administrative
+armed
+adopt
 grammar
 generation
 graphics
@@ -3251,6 +3286,8 @@ per
 processing
 perception
 pattern
+purpose
+practices
 consistent
 compatible
 conversions
@@ -3459,6 +3496,10 @@ cameras
 contrast
 closing
 classifies
+coastline
+citing
+conforms
+china
 not
 necessary
 nvidia
@@ -4262,6 +4303,7 @@ models
 meaningful
 matching
 medical
+measures
 have
 hml
 hPK
@@ -4621,6 +4663,7 @@ Delay
 Drawbacks
 Digital
 Deblurring
+Defense
 kill
 kKK
 kn
@@ -5175,6 +5218,7 @@ Networking
 Netflix
 Not
 Noise
+November
 Value
 VV
 VHm
@@ -5757,6 +5801,7 @@ regions
 region
 recognition
 recognized
+refuse
 Maximum
 Meaning
 Matrix
@@ -6602,6 +6647,12 @@ exists
 ends
 enhancement
 erosion
+extended
+ensure
+entering
+enforced
+east
+emergency
 describe
 do
 discovery
@@ -6787,6 +6838,10 @@ devices
 details
 dilation
 detection
+domestic
+defence
+decision
+defensive
 year
 years
 ysA
@@ -7428,6 +7483,7 @@ Zhh
 ZVs
 Zjrc
 Zoom
+Zone
 üke
 üy
 qd
@@ -7905,6 +7961,7 @@ zWz
 zOZ
 zrU
 zero
+zone
 Kq
 KH
 KG
