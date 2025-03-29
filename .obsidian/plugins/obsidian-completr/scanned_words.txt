@@ -141,6 +141,7 @@ Loan
 LHS
 Live
 Lacks
+Less
 Analysis
 Array
 Assume
@@ -1278,6 +1279,8 @@ ignoring
 introduces
 improving
 identified
+itself
+informed
 the
 tree
 token
@@ -1460,6 +1463,7 @@ these
 target
 tries
 think
+true
 form
 floating
 faster
@@ -1634,6 +1638,7 @@ firewall
 firewalls
 features
 fundamental
+fewer
 where
 with
 while
@@ -1782,6 +1787,7 @@ website
 worldwide
 webpage
 wold
+work
 value
 variables
 visible
@@ -2437,6 +2443,8 @@ ISPs
 ISP
 Instead
 Intelligent
+Informed
+Information
 builds
 better
 bond
@@ -3188,6 +3196,7 @@ github
 global
 goal
 goals
+get
 programming
 program
 pos
@@ -3625,6 +3634,9 @@ closest
 consequences
 current
 counting
+closer
+compute
+consuming
 not
 necessary
 nvidia
@@ -3953,6 +3965,7 @@ End
 Enhancing
 Enhancement
 Error
+Euclidean
 using
 used
 underling
@@ -4095,6 +4108,7 @@ users
 updated
 updates
 user
+usually
 Generates
 Growth
 GH
@@ -4623,6 +4637,7 @@ how
 helps
 help
 heuristic
+heuristics
 Description
 Data
 Division
@@ -4815,6 +4830,7 @@ Delivery
 Distribute
 DNS
 Don
+DFS
 kill
 kKK
 kn
@@ -4951,6 +4967,7 @@ know
 keep
 keeps
 kbps
+knowledge
 Run
 Region
 RsN
@@ -6122,6 +6139,7 @@ Media
 Main
 Morphological
 MCQ
+Manhattan
 Big
 Best
 Bin
@@ -6283,6 +6301,7 @@ Between
 Better
 Band
 Bidirectional
+BFS
 Omega
 OQ
 OA
@@ -6407,6 +6426,7 @@ One
 Often
 Optimizing
 Out
+Over
 Usage
 UJ
 Umq
@@ -6531,6 +6551,7 @@ Use
 UDP
 Useful
 User
+Uniformed
 Quadratic
 Questions
 Qa
@@ -6674,6 +6695,7 @@ QQU
 QVV
 Qos
 Queen
+Quick
 equation
 export
 every
@@ -6847,6 +6869,8 @@ efficiency
 efficiently
 enviroment
 estimated
+estimating
+expand
 describe
 do
 discovery
