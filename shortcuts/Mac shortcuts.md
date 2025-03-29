@@ -28,7 +28,7 @@
 
 ## Safari Shortcuts:
 
-* `Command+L` - Switch to url bar in Safari.
+* `Command+L`  or `Option+Command+f`- Switch to url bar in Safari.
 * `Command+Shift+[` and `Command+Shift+]` - Previous and next tab in Safari.
 * `Shift+reload icon` - Hard refresh a website (clear cache and reload) in Safari.
 * `Command+Y` - Opens history in Safari.
