@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year4/NNFL/Untitled.md",
-                "mode": "preview",
+                "file": "year4/AI/Search.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Search"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "90a871072c01c550",
@@ -194,15 +195,17 @@
   },
   "active": "a4da8ab999a5f12a",
   "lastOpenFiles": [
+    "year4/NNFL/Untitled.md",
+    "year4/AI/Search.md",
+    "Untitled 1",
+    "year4/AI",
     "year4/Multimedia computing/Midsem.md",
     "year4/Multimedia computing/Digital Image Processing.md",
     "year4/Multimedia computing/Intro to Multimedia computing.md",
-    "year4/NNFL/Untitled.md",
     "year4/NNFL",
     "year4/Untitled.md",
     "year4/IL/Origin of ADIZ.md",
     "year4/IL",
-    "Untitled 1",
     "year4/Multimedia computing/Video and Animation.md",
     "Welcome.md",
     "2025-03-23.md 14-34-09-728.md",
@@ -226,7 +229,6 @@
     "year3/Computer networks/01 Link Layer.md",
     "year3/Computer networks/00 End to end Delay.md",
     "year3/Compiler Constuction/Introduction of Compiler/01 Phases of Compiler.md",
-    "year3/Software Engg/Object orientated programming.md",
     "Untitled/Welcome.md~",
     "year3/Computer networks",
     "year3/Software Engg",
@@ -236,7 +238,6 @@
     "year3/Compiler Constuction/pics/Screenshot_20240212_094533.png",
     "year3/Compiler Constuction/pics/Pasted image 20240212095305.png",
     "year3/Compiler Constuction/pics/Pasted image 20240212095850.png",
-    "year3/Compiler Constuction/pics",
-    "year3/Money Bank"
+    "year3/Compiler Constuction/pics"
   ]
 }
