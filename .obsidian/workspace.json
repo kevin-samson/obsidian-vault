@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year4/AI/Search.md",
-                "mode": "source",
+                "file": "shortcuts/Mac shortcuts.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Search"
+              "title": "Mac shortcuts"
             }
           }
         ],
@@ -211,8 +211,10 @@
   },
   "active": "2c3f9b04225129c3",
   "lastOpenFiles": [
-    "year3/Money Bank/06 Interest Rate.md",
+    "shortcuts/Kwin shortcuts.md",
+    "shortcuts/Mac shortcuts.md",
     "year4/AI/Search.md",
+    "year3/Money Bank/06 Interest Rate.md",
     "year3/Money Bank/05 Financial services.md",
     "year3/Money Bank/04 Non-Banking Financial Companies.md",
     "year3/Money Bank/03 Financial market.md",
@@ -243,8 +245,6 @@
     "year3/Compiler Constuction/Introduction of Compiler/05 Shift-Reduce Parsing.md",
     "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
     "year3/Design and Analysis of Algo/03 Job scheduling  with deadlines.md",
-    "year3/Design and Analysis of Algo/07 Recurrence relation.md",
-    "year3/Design and Analysis of Algo/02 Fractional Knapsack Problem.md",
     "Untitled/Welcome.md~",
     "year3/Computer networks",
     "year3/Software Engg",
