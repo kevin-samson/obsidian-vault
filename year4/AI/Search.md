@@ -34,3 +34,14 @@ A heuristic function $h(x)$ is and estimated cost from one node to another
 - Over-estimating get heuristic is better than under-estimating
 - As heuristics get closer to he true cost, you will expand fewer nodes but usually do more work per not to compute the heuristic itself 
 Eg: Manhattan distance, Euclidean distance
+
+# Un-informed vs Informed search
+
+| Uniformed search           | Informed search                         |
+| -------------------------- | --------------------------------------- |
+| Search without Information | Search with information                 |
+| No knowledge               | Use knowledge to find steps to solution |
+| Time consuming             | Quick solution                          |
+| More complexity            | Less complexity                         |
+| DFS,BFS etc.               | $A^*$,Heuristic DFS, Best first search  | 
+
