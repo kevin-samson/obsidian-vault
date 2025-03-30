@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4da8ab999a5f12a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year3/Money Bank/06 Interest Rate.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "06 Interest Rate"
-            }
-          },
-          {
             "id": "2c3f9b04225129c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year4/IL/Introduction to international law.md",
-                "mode": "source",
+                "file": "year4/IL/01-Introduction to international law.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to international law"
+              "title": "01-Introduction to international law"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +195,9 @@
   },
   "active": "2c3f9b04225129c3",
   "lastOpenFiles": [
+    "year4/IL/02-Law of treaties.md",
+    "year4/IL/01-Introduction to international law.md",
     "year4/IL/Origin of ADIZ.md",
-    "year4/IL/Introduction to international law.md",
     "shortcuts/Mac shortcuts.md",
     "shortcuts/Kwin shortcuts.md",
     "year4/AI/Search.md",
@@ -244,7 +229,6 @@
     "year4/Multimedia computing",
     "year4",
     "year3/Compiler Constuction/Introduction of Compiler/05 Shift-Reduce Parsing.md",
-    "year3/Compiler Constuction/Introduction of Compiler/04 Context free.md",
     "Untitled/Welcome.md~",
     "year3/Computer networks",
     "year3/Software Engg",
