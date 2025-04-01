@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90a871072c01c550",
@@ -193,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c3f9b04225129c3",
+  "active": "8e07c47ad251717c",
   "lastOpenFiles": [
     "year4/IL/02-Law of treaties.md",
-    "year4/IL/01-Introduction to international law.md",
     "year4/IL/04-International Trade Law.md",
+    "year4/IL/01-Introduction to international law.md",
     "year4/IL/03-What are its sources? How do they originate?.md",
     "year4/IL/Origin of ADIZ.md",
     "shortcuts/Mac shortcuts.md",
